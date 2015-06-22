@@ -1,0 +1,114 @@
+/* line 2, ../../../../sass/page-specific/our-work/index.sass */
+
+#jobs-container .col {
+
+  /*min-height: 300px;*/
+
+}
+
+/* line 4, ../../../../sass/page-specific/our-work/index.sass */
+
+#jobs-container .job-img {
+
+  min-height: 170px;
+
+}
+
+
+
+/* line 6, ../../../../sass/page-specific/our-work/index.sass */
+
+.digi.desi .job-img {
+
+  background-color: tomato;
+
+}
+
+
+
+/* line 8, ../../../../sass/page-specific/our-work/index.sass */
+
+.digi.deve .job-img {
+
+  background-color: orangered;
+
+}
+
+
+
+/* line 10, ../../../../sass/page-specific/our-work/index.sass */
+
+.digi.mana .job-img {
+
+  background-color: blue;
+
+}
+
+
+
+/* line 12, ../../../../sass/page-specific/our-work/index.sass */
+
+.desi.deve .job-img {
+
+  background-color: green;
+
+}
+
+
+
+/* line 14, ../../../../sass/page-specific/our-work/index.sass */
+
+.desi.mana .job-img {
+
+  background-color: crimson;
+
+}
+
+
+
+/* line 16, ../../../../sass/page-specific/our-work/index.sass */
+
+.deve.mana .job-img {
+
+  background-color: hotpink;
+
+}
+
+
+
+/* line 18, ../../../../sass/page-specific/our-work/index.sass */
+
+.mix {
+
+  display: none;
+
+}
+
+
+
+/* line 21, ../../../../sass/page-specific/our-work/index.sass */
+
+p.tags {
+
+  font-weight: 300;
+
+}
+
+
+
+/* line 23, ../../../../sass/page-specific/our-work/index.sass */
+
+h4 {
+
+  line-height: 1;
+
+  padding-top: 10px;
+
+}
+
+.single .bg-box {
+
+  height: 190px;
+
+}
+

@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/*@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/bebasneue-webfont.eot');
+    src: url('../fonts/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/BebasNeue.otf') format('opentype'), 
+         url('../fonts/bebasneue-webfont.woff') format('woff'),
+         url('../fonts/bebasneue-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue-webfont.svg#bebas_neueregular') format('svg');
+}
+
+@font-face {
+    font-family: 'Neue';
+    src: url('location.eot');
+    src: url('location.eot#iefix') format('embedded-opentype'),
+         url('location.woff') format('woff'),
+         url('location.ttf') format('truetype'),
+         url('location.svg#Name') format('svg'),
+         url('../fonts/HelveticaNeue.otf') format('opentype');   
+}*/
+
+@font-face {
+    font-family: 'HelveticaneueBold';
+    src: url('font/HelveticaNeue-CondensedBold.eot');
+    src: url('font/HelveticaNeue-CondensedBold.eot?#iefix') format('embedded-opentype'),
+         url('font/HelveticaNeue-CondensedBold.woff') format('woff'),
+         url('font/HelveticaNeue-CondensedBold.ttf') format('truetype'),
+         url('font/HelveticaNeue-CondensedBold.svg#HelveticaNeue') format('svg');
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('font/Helvetica.eot');
+    src: url('font/Helvetica.eot?#iefix') format('embedded-opentype'),
+         url('font/Helvetica.woff') format('woff'),
+         url('font/Helvetica.ttf') format('truetype'),
+         url('font/Helvetica.svg#HelveticaNeue') format('svg');
+}
